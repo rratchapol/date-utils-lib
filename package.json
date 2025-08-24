@@ -1,0 +1,17 @@
+{
+  "name": "date-utils-lib",
+  "version": "1.0.0",
+  "description": "A simple date utility library for formatting, validating, and manipulating dates.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["date", "format", "utils", "typescript"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
