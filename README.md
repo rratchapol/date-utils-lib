@@ -60,6 +60,7 @@ console.log(addDays("2025-08-24", 7));
 
 
 ### โครงสร้างของไลบรารี
+```typescript
 date-utils-lib/
  ├─ src/
  │   ├─ index.ts
@@ -70,3 +71,4 @@ date-utils-lib/
  ├─ tsconfig.json
  ├─ README.md
  ├─ .gitignore
+ ```
