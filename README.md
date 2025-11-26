@@ -31,6 +31,12 @@ console.log(addDays("2025-08-24", 7));
 
 ---
 
+### Developer
+rratchapol
+
+### git Repository
+https://github.com/rratchapol/date-utils-lib.git
+
 ## ภาษาไทย
 
 **date-utils-lib** คือไลบรารีสำหรับจัดการวันที่ใน JavaScript/TypeScript ใช้งานง่าย ครอบคลุมทั้งการแปลงรูปแบบวันที่ ตรวจสอบความถูกต้อง และบวกวัน
